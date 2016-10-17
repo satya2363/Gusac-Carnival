@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content" >
+
+
+
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/About"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+    
+    
+    
+     <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="The biggest quiz in the history of GITAM University. Be prepared to be enthralled as the quiz masters test your knowledge on various day-to-day and mundane topics"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+     
+     
+      <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/contact"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+      
+      
+      
+       <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Krishna : 9494401904"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+    
+    
+    
+    
+    
+    
+    
+
+</LinearLayout>
+
+</ScrollView>

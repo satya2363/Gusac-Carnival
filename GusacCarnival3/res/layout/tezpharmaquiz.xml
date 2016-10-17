@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content" >
+
+
+
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/About"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+    
+    
+     <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ceutics, Cology,Analysis, Med-chem!! Think you know it all? Then Pharmaquiz is the event for you!
+ The ultimate Pharma-Quiz that challenges you to test your knowledge about everything pharma! Engage yourself in this amazing and well planned battle of pharma-intelligence that will surely broaden your pharma knowledge"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+     
+     
+      <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/contact"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+      
+      
+      <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Anjali Dasari - 9966593292"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+      
+      
+    
+    
+    
+    
+    
+    
+    
+
+</LinearLayout>
+
+
+</ScrollView>
